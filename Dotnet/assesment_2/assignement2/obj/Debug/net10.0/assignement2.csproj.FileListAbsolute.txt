@@ -1,0 +1,4 @@
+C:\Users\Patel Henil\OneDrive\Desktop\mine\internship\DotNet\assesment_2\assignement2\obj\Debug\net10.0\assignement2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patel Henil\OneDrive\Desktop\mine\internship\DotNet\assesment_2\assignement2\obj\Debug\net10.0\assignement2.AssemblyInfoInputs.cache
+C:\Users\Patel Henil\OneDrive\Desktop\mine\internship\DotNet\assesment_2\assignement2\obj\Debug\net10.0\assignement2.AssemblyInfo.cs
+C:\Users\Patel Henil\OneDrive\Desktop\mine\internship\DotNet\assesment_2\assignement2\obj\Debug\net10.0\assignement2.csproj.CoreCompileInputs.cache
