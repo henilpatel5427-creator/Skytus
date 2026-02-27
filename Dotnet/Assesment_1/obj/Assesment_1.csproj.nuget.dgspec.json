@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Patel Henil\\OneDrive\\Desktop\\mine\\DotNet\\Assesment_1\\Assesment_1.csproj": {}
+    "C:\\Users\\Patel Henil\\OneDrive\\Desktop\\mine\\internship\\Skytus\\DotNet\\Assesment_1\\Assesment_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Patel Henil\\OneDrive\\Desktop\\mine\\DotNet\\Assesment_1\\Assesment_1.csproj": {
+    "C:\\Users\\Patel Henil\\OneDrive\\Desktop\\mine\\internship\\Skytus\\DotNet\\Assesment_1\\Assesment_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Patel Henil\\OneDrive\\Desktop\\mine\\DotNet\\Assesment_1\\Assesment_1.csproj",
+        "projectUniqueName": "C:\\Users\\Patel Henil\\OneDrive\\Desktop\\mine\\internship\\Skytus\\DotNet\\Assesment_1\\Assesment_1.csproj",
         "projectName": "Assesment_1",
-        "projectPath": "C:\\Users\\Patel Henil\\OneDrive\\Desktop\\mine\\DotNet\\Assesment_1\\Assesment_1.csproj",
+        "projectPath": "C:\\Users\\Patel Henil\\OneDrive\\Desktop\\mine\\internship\\Skytus\\DotNet\\Assesment_1\\Assesment_1.csproj",
         "packagesPath": "C:\\Users\\Patel Henil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Patel Henil\\OneDrive\\Desktop\\mine\\DotNet\\Assesment_1\\obj\\",
+        "outputPath": "C:\\Users\\Patel Henil\\OneDrive\\Desktop\\mine\\internship\\Skytus\\DotNet\\Assesment_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Patel Henil\\AppData\\Roaming\\NuGet\\NuGet.Config"
