@@ -1,0 +1,28 @@
+@model List<assignement5.Models.Student>
+
+@{
+    ViewData["Title"] = "Student List";
+}
+
+<h2>Student List</h2>
+
+@await Html.PartialAsync("_StudentSummary")
+
+<table class="table table-bordered">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Department</th>
+        <th>Marks</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.StudentId</td>
+            <td>@item.Name</td>
+            <td>@item.Department</td>
+            <td>@item.Marks</td>
+        </tr>
+    }
+</table>

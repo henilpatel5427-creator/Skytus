@@ -1,0 +1,22 @@
+@model List<assignment7.Models.Student>
+
+<h2>Student List</h2>
+
+<a asp-action="Create">Add Student</a>
+
+<table class="table">
+    <tr>
+        <th>Name</th>
+        <th>Department</th>
+        <th>Marks</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.Department</td>
+            <td>@item.Marks</td>
+        </tr>
+    }
+</table>
